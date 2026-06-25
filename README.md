@@ -53,5 +53,5 @@ Ett komplett, produktionslikt hemlabb byggt på **k3s** och hanterat deklarativt
 ---
 
 ### 📫 Kontakta mig
-* LinkedIn: [Din LinkedIn-profil-länk]
+* LinkedIn: https://www.linkedin.com/in/patiwatpophukdee/
 * E-post: patiwat.pophukdee@hotmail.com
