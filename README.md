@@ -1,5 +1,5 @@
 # Hallå där! Jag heter Patiwat (Tee) 👋
-### DevOps & Platform Engineer | Söker nya utmaningar 🚀
+### DevOps & Platform Engineer  
 
 Jag brinner för automatisering, infrastruktur som kod (IaC), GitOps och att bygga stabila och säkra Kubernetes-plattformar. Mitt hemlabb (k3s) fungerar som min testbädd där jag ständigt utvärderar nya verktyg och metoder.
 
